@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract FreelancerMarketplace {
+contract Freelancer {
     enum ProfileType { Client, Freelancer }
 
     struct UserProfile {
